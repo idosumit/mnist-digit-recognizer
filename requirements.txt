@@ -1,2 +1,4 @@
 numpy
 notebook    # Jupyter notebook
+pandas
+matplotlib
