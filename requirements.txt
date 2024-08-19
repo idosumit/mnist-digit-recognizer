@@ -2,3 +2,6 @@ numpy
 notebook    # Jupyter notebook
 pandas
 matplotlib
+torch
+torchvision
+torchaudio
